@@ -1,4 +1,4 @@
-# auto_SATtestPapae_downloader
+# auto_SATtestPaper_downloader
 
 The python crawler can help you download SAT test paper from SAT website by the years which you want.
 
